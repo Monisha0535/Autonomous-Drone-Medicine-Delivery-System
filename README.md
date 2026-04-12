@@ -61,19 +61,6 @@ System design and architecture were developed using UML diagrams in Visual Parad
 - Simulink models used for system simulation and validation
 
 
-
-##  Project Overview
-![Drone Flyer](<img width="1414" height="2000" alt="Flyer" src="https://github.com/user-attachments/assets/011a3921-1d3f-46b3-bf71-adcfeb32d582" />
-)
-
-
-
-
-##  Simulation Video
-The simulation video is available in the `media/` folder.
-
-
-
 ##  Key Features
 - Fast delivery (within 45 minutes)
 - Autonomous operation (no manual intervention)
