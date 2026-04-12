@@ -78,3 +78,7 @@ The simulation video is available in the `media/` folder.
 - Reliable and safe system design
 - Ability to transport different types of payloads
 - Environmentally friendly solution
+
+  ##  Course
+  
+  Concept Design of New Vehicles
