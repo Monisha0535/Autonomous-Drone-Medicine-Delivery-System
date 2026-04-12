@@ -1,4 +1,5 @@
 #  Autonomous Drone Medicine Delivery System
+Autonomous drone system for medical delivery using MATLAB & Simulink with obstacle avoidance and navigation
 
 This project presents the concept design of an autonomous drone system for rapid medical delivery. The system is designed to improve emergency healthcare response by transporting essential medicines and equipment quickly and safely.
 
