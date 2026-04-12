@@ -63,7 +63,8 @@ System design and architecture were developed using UML diagrams in Visual Parad
 
 
 ##  Project Overview
-![Drone Flyer]([media/flyer.png](https://acrobat.adobe.com/id/urn:aaid:sc:EU:06643ce0-d688-475a-8664-16bba466d3a7))
+![Drone Flyer](<img width="1414" height="2000" alt="Flyer" src="https://github.com/user-attachments/assets/011a3921-1d3f-46b3-bf71-adcfeb32d582" />
+)
 
 
 
